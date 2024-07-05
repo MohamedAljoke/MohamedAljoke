@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, my name is Mohamed Ibrahim Aljoke</h1>
+<h1 align="center">Mohamed Ibrahim Aljoke</h1>
 <h3 align="left">Fullstack Software Engineer - My main stack is nodejs/react/aws</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -33,7 +33,6 @@
 
 ### Main Hard Skills
 
-<details>
  <summary>Backend</summary>
 
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%235A2D81.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
@@ -48,9 +47,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-</details>
-
-<details>
  <summary>Infra</summary>
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -61,8 +57,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge)
 ![LocalStack](https://img.shields.io/badge/LocalStack-%23162B4E.svg?style=for-the-badge)
 
-</details>
-<details>
  <summary>Front-end</summary>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -75,11 +69,8 @@
 ![PWA](https://img.shields.io/badge/PWA-%238B5CF6.svg?style=for-the-badge)
 ![Hasura](https://img.shields.io/badge/Hasura-%23161B22.svg?style=for-the-badge&logo=hasura&logoColor=white)
 
-</details>
-
 ### Stuff i worked a bit with
 
-<details>
  <summary>Some tech</summary>
 
 ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -87,8 +78,6 @@
 ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-</details>
 
 ## Experience gained at work
 
