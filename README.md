@@ -56,6 +56,8 @@
 ![S3](https://img.shields.io/badge/S3-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge)
 ![LocalStack](https://img.shields.io/badge/LocalStack-%23162B4E.svg?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
  <summary>Front-end</summary>
 
