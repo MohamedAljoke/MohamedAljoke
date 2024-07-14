@@ -102,4 +102,4 @@
 - Host application on on-premisse server
 
 ### Certificates
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e82e969a-5b2f-4d78-9ac1-24e9ab29a519" data-share-badge-host="https://www.credly.com"></div>
+[![Credly Badge](https://images.credly.com/size/110x110/images/e82e969a-5b2f-4d78-9ac1-24e9ab29a519/badge.png)](https://www.credly.com/badges/e82e969a-5b2f-4d78-9ac1-24e9ab29a519)
