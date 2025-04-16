@@ -83,22 +83,20 @@ I am also [AWS Certified Solutions Architect Associate](https://www.credly.com/b
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 ## Experience gained at work
-
+- Worked with microservices/event driven architecture using aws serviçe
+- Developed and maintained backends with NestJS/expressJS/fastify/adonisJS
 - Created UI with React.js, Next.js, Tailwind, and MaterialUI
-- Developed backends using Adonis.js, Express, and NestJS
 - Optimized AWS costs by removing unused services and implemented a Slack command to manage EC2 instances with AWS Chatbot and Lambda
-- Implemented unit tests for frontend and backend applications
-- Created GitLab pipelines for CI/CD
+- CI/CD creation for different projects with different requirements
 - Built serverless applications utilizing SQS, S3, and Lambda
-- Successfully migrated applications from Firebase to PostgreSQL and MongoDB
+- Worked on a project that needed migration from using mongo+firbase database to postgres
 - Worked on projects using Hasura and GraphQL with frontend microservices
-- Documented APIs using Swagger and Postman
 - Enhanced PWA applications with new features
-- Utilized LocalStack for AWS local development, Docker, and PostgreSQL/MySQL databases
 - Developed admin projects and dashboards with instant updates using webhooks
 - Integrated payments with Asaas, Cielo, Stripe, and Mercado Livre APIs
-- Implemented Webhooks and WebSockets for real-time communication
-- Made webscrappers with node.ts and c#
+- Implemented WebSockets with redis in a system for voting.
+- Created callback routes (Webhooks) to get response from external systems
+- Made webscrappers with node.ts, c# and golang.
 - Mentored six programming interns, overseeing their project utilizing Node.js and React.js, Addressing merge conflicts and providing technical guidance
 - Host application on on-premisse server
 
