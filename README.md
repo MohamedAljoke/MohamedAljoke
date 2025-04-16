@@ -1,5 +1,7 @@
 <h1 align="center">Mohamed Ibrahim Aljoke</h1>
 <h3 align="left">Fullstack Software Engineer - Main stack is NodeJs/ReactJs/Typescript/AWS</h3>
+<h3 align="left">[AWS Certified Solutions Architect Associate](https://www.credly.com/badges/61f0854b-e2eb-4a3b-8482-d57409e1cc6b/public_url)</h3>
+
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
