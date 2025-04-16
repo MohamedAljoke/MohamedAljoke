@@ -27,10 +27,10 @@ I am also [AWS Certified Solutions Architect Associate](https://www.credly.com/b
 
 ### Contact me
 
-<a href="mailto:mohammed.maljoke@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-<a href="https://www.linkedin.com/in/mohamed-aljoke-a23217186/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<a href="https://devmohami.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-Hashnode-%2336465D?style=for-the-badge" alt="Blog" /></a>
-<a href="https://www.youtube.com/channel/UCkUgsd4IUob6IUVF1EP13eA" target="_blank"><img src="https://img.shields.io/badge/YouTube-Channel-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+- <a href="mailto:mohammed.maljoke@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+- <a href="https://www.linkedin.com/in/mohamed-aljoke-a23217186/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+- <a href="https://devmohami.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-Hashnode-%2336465D?style=for-the-badge" alt="Blog" /></a>
+- <a href="https://www.youtube.com/channel/UCkUgsd4IUob6IUVF1EP13eA" target="_blank"><img src="https://img.shields.io/badge/YouTube-Channel-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 ### Main Hard Skills
 
