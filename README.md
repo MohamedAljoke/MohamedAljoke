@@ -1,6 +1,6 @@
 <h1 align="center">Mohamed Ibrahim Aljoke</h1>
 <h3 align="left">Fullstack Software Engineer - Main stack is NodeJs/ReactJs/Typescript/AWS</h3>
-<h3 align="left">[AWS Certified Solutions Architect Associate](https://www.credly.com/badges/61f0854b-e2eb-4a3b-8482-d57409e1cc6b/public_url)</h3>
+[AWS Certified Solutions Architect Associate](https://www.credly.com/badges/61f0854b-e2eb-4a3b-8482-d57409e1cc6b/public_url)
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -13,8 +13,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
-
-<h4 align="left">I have also worked with dotNet, flutter and i am studying golang</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAljoke&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAljoke" /> </p>
 
