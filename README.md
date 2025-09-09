@@ -17,11 +17,11 @@ I am also [AWS Certified Solutions Architect Associate](https://www.credly.com/b
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAljoke&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAljoke" /> </p>
 
-- 🌱 I’m currently learning [Golang](https://github.com/MohamedAljoke/scrap_ifix_go)
+- 🌱 Completed project 1: [Golang](https://github.com/MohamedAljoke/scrap_ifix_go)
 
-- ✅ Completed project: [Travel-Journal](https://github.com/MohamedAljoke/travel-journal-v2)
+- ✅ Completed project 2: [Travel-Journal](https://github.com/MohamedAljoke/travel-journal-v2)
 
-- 🧼 Project with rest/graphql unit test DDD and design patterns: [DDD](https://github.com/MohamedAljoke/node_ddd_graphql_rest)
+
 
 </div>
 
